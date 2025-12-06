@@ -1,0 +1,1 @@
+# synology_faster_thumbnails
